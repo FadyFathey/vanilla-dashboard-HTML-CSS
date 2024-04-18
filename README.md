@@ -2,6 +2,9 @@
 
 This is a simple HTML/CSS dashboard template containing various sections.
 
+# Production demo
+https://vanilla-dashboard-with-htmlcss.web.app
+
 ## Sections
 
 1. Dashboard
